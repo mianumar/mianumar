@@ -49,7 +49,6 @@ I'm **Muhammad Umar**, a passionate **Unity Game Developer & Designer** with 5+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mianumar&show_icons=true&theme=tokyonight" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mianumar&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianumar&layout=compact&theme=tokyonight" />
