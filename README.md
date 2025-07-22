@@ -94,7 +94,6 @@ Focus: Game Development, Data Structures, C#, Python, .NET
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianumar&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
