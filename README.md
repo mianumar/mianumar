@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.postimg.cc/YSmgc6SP/Muhammad-Umar.png" alt="Muhammad Umar | Unity Game Developer" width="100%" />
+<img src="https://i.postimg.cc/ZnDKKQ7x/Muhammad-Umar-1.png" alt="Muhammad Umar | Unity Game Developer" width="100%" />
 
 <h1 align="center">👋 Hi, I'm Muhammad Umar</h1>
 <h3 align="center">🎮 Unity Game Developer & Designer | Gujranwala, Pakistan</h3>
