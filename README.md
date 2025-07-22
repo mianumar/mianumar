@@ -19,6 +19,7 @@ I'm **Muhammad Umar**, a passionate **Unity Game Developer & Designer** with ove
 🌍 **Location:** Gujranwala, Pakistan  
 📧 **Email:** [umer.ramzan375@gmail.com](mailto:umer.ramzan375@gmail.com)  
 📞 **Phone:** +92 310 7699631  
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portfolio&up_color=green&up_message=online&url=https%3A%2F%2Fyourdomain.com)](https://yourdomain.com)
 
 ---
 
@@ -101,6 +102,14 @@ Focus: Game Development, Data Structures, C#, Python, .NET
 </p>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mianumar&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mianumar&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🛠️ Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
