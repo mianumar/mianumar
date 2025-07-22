@@ -54,8 +54,8 @@ I'm **Muhammad Umar**, a passionate **Unity Game Developer & Designer** with 5+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianumar&layout=compact&theme=tokyonight" />
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mianumar&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mianumar&theme=tokyonight&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mianumar&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
