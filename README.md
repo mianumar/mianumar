@@ -98,9 +98,10 @@ Focus: Game Development, Data Structures, C#, Python, .NET
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mianumar&theme=tokyonight" />
   <br/>
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mianumar&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mianumar&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
