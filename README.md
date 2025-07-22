@@ -62,7 +62,7 @@ I'm **Muhammad Umar**, a passionate **Unity Game Developer & Designer** with ove
 🐳 **Mighty Jonah** – Ocean escape adventure  
 🍩 **Sweet Donut Match** – Candy-style match game
 
-> 🔗 [More on my GitHub](https://github.com/your-github)
+> 🔗 [More on my GitHub](https://github.com/mianumar)
 
 ---
 
@@ -95,6 +95,7 @@ Focus: Game Development, Data Structures, C#, Python, .NET
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianumar&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
   <br/>
