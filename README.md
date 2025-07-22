@@ -131,6 +131,9 @@ I’m a developer who bridges **design and development**, ensuring ideas not onl
 - 🔗 [LinkedIn](https://www.linkedin.com/in/faizcreations/)  
 - 🐙 [GitHub](https://github.com/mianumar)  
 - 📧 [Email Me](mailto:umer.ramzan375@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com)
+
 
 ---
 
