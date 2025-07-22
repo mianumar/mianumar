@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  🚀 3+ Years Experience | 🎯 300+ Projects Delivered | 💡 237+ Happy Clients  
+  🚀 5+ Years Experience | 🎯 300+ Projects Delivered | 💡 437+ Happy Clients  
 </p>
 
 ---
