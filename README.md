@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Muhammad Umar**, a passionate **Unity Game Developer & Designer** with over 3 years of experience in developing immersive 2D and 3D games. I combine technical skills with creativity to deliver compelling gameplay, clean architecture, and optimized performance across mobile platforms.
+I'm **Muhammad Umar**, a passionate **Unity Game Developer & Designer** with over 5 years of experience in developing immersive 2D and 3D games. I combine technical skills with creativity to deliver compelling gameplay, clean architecture, and optimized performance across mobile platforms.
 
 🌍 **Location:** Gujranwala, Pakistan  
 📧 **Email:** [umer.ramzan375@gmail.com](mailto:umer.ramzan375@gmail.com)  
@@ -108,7 +108,7 @@ Focus: Game Development, Data Structures, C#, Python, .NET
 > “Be what you would seem to be…”  
 I’m a developer who bridges **design and development**, ensuring ideas not only look good—but play well. Whether it’s multiplayer sync, creative puzzles, or scalable architecture—I bring vision, skill, and accountability.
 
-✅ 3+ years of Unity Game Development  
+✅ 5+ years of Unity Game Development  
 ✅ Clean, reusable, production-ready code  
 ✅ Real-time updates, backend integration, leaderboard APIs  
 ✅ Fast delivery with attention to UX and polish
@@ -117,8 +117,8 @@ I’m a developer who bridges **design and development**, ensuring ideas not onl
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐙 [GitHub](https://github.com/your-github)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/faizcreations/)  
+- 🐙 [GitHub](https://github.com/mianumar)  
 - 📧 [Email Me](mailto:umer.ramzan375@gmail.com)
 
 ---
